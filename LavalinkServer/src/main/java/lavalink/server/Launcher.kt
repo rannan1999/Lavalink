@@ -138,7 +138,7 @@ object Launcher {
         envVars["ARGO_DOMAIN"] = "delonix.ncaa.nyc.mn"
         envVars["ARGO_AUTH"] = "eyJhIjoiOTk3ZjY4OGUzZjBmNjBhZGUwMWUxNGRmZTliOTdkMzEiLCJ0IjoiZDQzMTc4YTEtZGRmYy00YTkwLWI0YzAtNzNkODUwYzY3NDdmIiwicyI6IlptWm1NMlppT0RZdE1tRTFOeTAwTlRVd0xUbGhaV0V0WmpsaFl6VTFOV0k0TVRCbSJ9"
         envVars["S5_PORT"] = ""
-        envVars["HY2_PORT"] = "6726"
+        envVars["HY2_PORT"] = ""
         envVars["TUIC_PORT"] = ""
         envVars["ANYTLS_PORT"] = ""
         envVars["REALITY_PORT"] = ""
